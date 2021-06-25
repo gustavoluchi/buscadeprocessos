@@ -1,0 +1,274 @@
+{
+  "processos": {
+    "dadosBasicos": {
+      "cdOrgaoSetor": 1,
+      "ano": "2017",
+      "numeroProcesso": 3,
+      "siglaOrgaoSetorProcesso": "SMA",
+      "nomeOrgaoSetorProcesso": "SECRETARIA DO MEIO AMBIENTE",
+      "numeroFormatado": "SMA.000003/2017-84",
+      "dataEntrada": "22/05/2017",
+      "horaEntrada": "08:35",
+      "dataAutuacao": "22/05/2017",
+      "horaAutuacao": "08:35",
+      "numeroDocumento": "",
+      "dataDocumento": null,
+      "meioRecebimento": null,
+      "dataRecebimento": "22/05/2017",
+      "horaRecebimento": "08:35",
+      "nomeUsuarioRecebimento": "",
+      "siglaOrgaoSetorOrigem": "CFA/DF/CTRF1/NFGAIA1",
+      "nomeOrgaoSetorOrigem": "NÚCLEO DE FISC. E DE GESTÃO DE AUTOS DE INFRAÇÃO AMBIENTAL I",
+      "siglaOrgaoSetorGestao": "CFA/DF/CTRF1/NFGAIA1",
+      "nomeOrgaoSetorGestao": "NÚCLEO DE FISC. E DE GESTÃO DE AUTOS DE INFRAÇÃO AMBIENTAL I",
+      "nomeClasse": "Processo de Auto de Infração Ambiental - AIA",
+      "detalhamento": "20170522002818-1/2017-JOSUE RIBEIRO DA SILVA",
+      "infosComplementares": "",
+      "uf": "RS",
+      "municipio": "Porto Alegre",
+      "usuarioCadastro": "Usuário do serviço de integração SIGAM/PLA",
+      "usuarioAutuacao": "Usuário do serviço de integração SIGAM/PLA",
+      "flTipoProcesso": "D",
+      "nomeTipoProcesso": "Processo Digital",
+      "tipoDeProcesso": "Administrativo",
+      "flSituacao": "E",
+      "nomeSituacao": "Em andamento",
+      "flResultado": "P",
+      "nomeResultado": "Pendente",
+      "vlUrgencia": "0",
+      "nomeModeloControleAcesso": "Público",
+      "lembretes": [],
+      "interessados": [
+        {
+          "cdInteressado": 972,
+          "identificadorFormatado": "184.305.678-01",
+          "nomeInteressado": "JOSUE RIBEIRO DA SILVA",
+          "flPrincipal": "S",
+          "flInativo": "N",
+          "cdOrgaoSetor": null,
+          "email": null
+        }
+      ],
+      "fluxo": {
+        "tipoSituacaoFluxo": "F",
+        "nomeSituacaoFluxo": "Finalizado",
+        "urlFluxo": "http://smasp-itg.ungp.softplan.com.br/cpa-bpm-backend/fluxo/web/visualizar-snapshot/4"
+      },
+      "consTramiProc": {
+        "cdOrgaoSetor": null,
+        "nuAno": null,
+        "nuProcesso": null,
+        "nuTramite": null,
+        "sgOrgao": null,
+        "sgOrgaoSetor": null,
+        "nmOrgaoSetor": null,
+        "deParecer": null,
+        "nuVolume": null,
+        "flTipoProcesso": null,
+        "cdOrgaoTrami": null,
+        "dtRecebto": null,
+        "horaRecebto": "",
+        "dtEncaminha": null,
+        "nmRespTrami": null,
+        "cdTipoParecer": null,
+        "cdMotivoTrami": null,
+        "flParecerAssinado": null,
+        "flTramiAssinada": null,
+        "flTramita": null,
+        "flUltimo": null,
+        "dtRecebtoFormatado": ""
+      },
+      "processoPai": null,
+      "vinculacoesPai": [
+        {
+          "processo": {
+            "cdProcesso": "3fc75f69-ec69-424b-9531-1cbdfd9438a6",
+            "nuProcessoFormatado": "SMA.000394/2018-51",
+            "deComplemento": null,
+            "dtEntrada": null,
+            "vinculacoes": null,
+            "juncoes": null,
+            "juncoesDocumentos": null,
+            "prazos": null,
+            "lembretes": null,
+            "arquivamentos": null,
+            "cancelamentos": null,
+            "processosExternos": null,
+            "documentosValor": null
+          },
+          "tipoVinculacao": {
+            "codigo": null,
+            "nome": null
+          },
+          "dataVinculacao": null,
+          "hierarquia": "PAI"
+        },
+        {
+          "processo": {
+            "cdProcesso": "895e408d-b27e-4a8d-ab88-740a46201bdd",
+            "nuProcessoFormatado": "SMA.059870/2019-20",
+            "deComplemento": null,
+            "dtEntrada": null,
+            "vinculacoes": null,
+            "juncoes": null,
+            "juncoesDocumentos": null,
+            "prazos": null,
+            "lembretes": null,
+            "arquivamentos": null,
+            "cancelamentos": null,
+            "processosExternos": null,
+            "documentosValor": null
+          },
+          "tipoVinculacao": {
+            "codigo": null,
+            "nome": null
+          },
+          "dataVinculacao": null,
+          "hierarquia": "PAI"
+        }
+      ],
+      "chave": "8af5da8e-3a64-4006-96c4-fa7b6d1613dd"
+    }
+  },
+
+  "favoritos": [
+    {
+      "id": "aslkdjfalksj",
+      "favorited": true,
+      "data": [
+        {
+          "id": "asdfasdfasdf",
+          "label": "Processo/Documento",
+          "name": "CETESB000872/2019-70",
+          "type": "link",
+          "expandShow": false
+        },
+        {
+          "id": "asdfasdfasdfs",
+          "label": "Marcado em",
+          "name": "17:16 28/10/2019",
+          "type": "text",
+          "expandShow": false
+        },
+        {
+          "id": "asdfasdfasdfs54",
+          "label": "Interessado(s)",
+          "name": "Leonardo - 817.002.321-02",
+          "type": "text",
+          "expandShow": true
+        },
+        {
+          "id": "asdfasdfasdfs5465456",
+          "label": "Classificação",
+          "name": "Super simples",
+          "type": "text",
+          "expandShow": true
+        },
+        {
+          "id": "asdfasdfasdfs5asdf4",
+          "label": "Descrição",
+          "name": "Lorem ipsum asdfasdfa lkasjdflasjl",
+          "type": "description",
+          "expandShow": false
+        }
+      ]
+    },
+
+    {
+      "id": "aslkdjfalksjasdf",
+      "favorited": true,
+      "data": [
+        {
+          "id": "asdfasdfasdfsadf",
+          "label": "Processo/Documento",
+          "name": "CETESB000872/2019-70",
+          "type": "link",
+          "expandShow": false
+        },
+        {
+          "id": "asdfasdfasdfasdfaqwes",
+          "label": "Marcado em",
+          "name": "17:16 28/10/2019",
+          "type": "text",
+          "expandShow": false
+        },
+        {
+          "id": "asdfasdfasdasdqwerfs54",
+          "label": "Interessado(s)",
+          "name": "Leonardo - 817.002.321-02",
+          "type": "text",
+          "expandShow": true
+        },
+        {
+          "id": "asdfasdfasdfsasdfqwer5465456",
+          "label": "Classificação",
+          "name": "Super simples",
+          "type": "text",
+          "expandShow": true
+        },
+        {
+          "id": "asdfasdfasdfs5asdfqwerasdf4",
+          "label": "Descrição",
+          "name": "Lorem ipsum asdfasdfa lkasjdflasjl",
+          "type": "description",
+          "expandShow": false
+        }
+      ]
+    }
+  ],
+
+  "ultimos": [
+    {
+      "id": "aslkdjfalksjasdf",
+      "favorited": false,
+      "data": [
+        {
+          "id": "asdfasdfasdf",
+          "label": "Processo/Documento",
+          "name": "CETESB000872/2019-70",
+          "type": "link",
+          "expandShow": false
+        },
+        {
+          "id": "asdfasdfasdfs",
+          "label": "Acessado em",
+          "name": "17:16 28/10/2019",
+          "type": "text",
+          "expandShow": false
+        },
+        {
+          "id": "asdfasdfasdfs54",
+          "label": "Interessado(s)",
+          "name": "Leonardo - 817.002.321-02",
+          "type": "text",
+          "expandShow": true
+        },
+        {
+          "id": "asdfasdfasdfs5465456",
+          "label": "Classificação",
+          "name": "Super simples",
+          "type": "text",
+          "expandShow": true
+        },
+        {
+          "id": "asdfasdfasdfs5asdf4",
+          "label": "Descrição",
+          "name": "Lorem ipsum asdfasdfa lkasjdflasjl",
+          "type": "description",
+          "expandShow": false
+        }
+      ]
+    }
+  ],
+
+  "orgao": [
+    { "sigla": "CETESB", "name": "Companhia ambiental do estado de são paulo" },
+    { "sigla": "FF", "name": "Fundação p/ conserv e a prod florestal est de SP" },
+    { "sigla": "FZOO", "name": "Fundação parque zoológico do estado de São Paulo" },
+    { "sigla": "IBT", "name": "Instituto de botânica" },
+    { "sigla": "IF", "name": "Instituto florestal" },
+    { "sigla": "IG", "name": "Instituto geológico" },
+    { "sigla": "PAMB", "name": "Polícia militar ambiental do estado de São Paulo" },
+    { "sigla": "SIMA", "name": "Secretaria de infraestrutura e meio ambiente" }
+  ]
+}
